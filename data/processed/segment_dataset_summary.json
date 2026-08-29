@@ -1,0 +1,59 @@
+{
+  "turvo_shape": [
+    147621,
+    26
+  ],
+  "magnus_raw_shape": [
+    17978,
+    145
+  ],
+  "magnus_after_cleaning_outliers_shape": [
+    14203,
+    127
+  ],
+  "magnus_imputed_columns": [
+    "NetHeight",
+    "NetLength",
+    "TotalCost_mean_6m_lane_state",
+    "TotalCost_max_3m_lane_state",
+    "TotalCost_std_2w_lane_zip3",
+    "TotalCost_min_2w_lane_zip3",
+    "TotalCost_std_6m_lane_state",
+    "TotalCost_count_6m_lane_state",
+    "TotalCost_min_3m_lane_state",
+    "Destination_Light_Employment",
+    "TotalCost_min_6m_lane_state",
+    "VehicleYearMean",
+    "TotalCost_max_6m_lane_state"
+  ],
+  "magnus_model_shape": [
+    14203,
+    26
+  ],
+  "overall_shape": [
+    161824,
+    26
+  ],
+  "magnus_outlier_report": {
+    "TotalCost": {
+      "lower_bound": -900.0,
+      "upper_bound": 1900.0,
+      "n_removed": 2268
+    },
+    "TotalMiles": {
+      "lower_bound": -223.5,
+      "upper_bound": 524.5,
+      "n_removed": 2363
+    },
+    "TotalWeight": {
+      "lower_bound": -10851.0,
+      "upper_bound": 27997.0,
+      "n_removed": 1777
+    },
+    "HaversineMiles": {
+      "lower_bound": -196.38945010299824,
+      "upper_bound": 444.2546188734682,
+      "n_removed": 2323
+    }
+  }
+}

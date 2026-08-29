@@ -1,0 +1,53 @@
+{
+  "raw_shape": [
+    305838,
+    145
+  ],
+  "processed_shape": [
+    147621,
+    127
+  ],
+  "columns_dropped_unusable": [
+    "InoperableAny",
+    "NetWidth",
+    "OriginTimeZone",
+    "DestinationTimeZone",
+    "TotalCostLog",
+    "OriginPostalCode",
+    "DestinationPostalCode",
+    "OriginCity",
+    "DestinationCity",
+    "FirstPickup",
+    "LastPickup",
+    "FirstScheduledDelivery",
+    "LastScheduledDelivery",
+    "FirstDelivery",
+    "LastDelivery",
+    "CreationDate",
+    "Split",
+    "ShipmentId"
+  ],
+  "rows_dropped_duplicates": 0,
+  "outlier_report": {
+    "TotalCost": {
+      "lower_bound": -1645.0,
+      "upper_bound": 3275.0,
+      "n_outliers_removed": 9905
+    },
+    "TotalMiles": {
+      "lower_bound": -945.0,
+      "upper_bound": 1927.0,
+      "n_outliers_removed": 22807
+    },
+    "TotalWeight": {
+      "lower_bound": -33040.0,
+      "upper_bound": 67200.0,
+      "n_outliers_removed": 579
+    },
+    "HaversineMiles": {
+      "lower_bound": -329.4256183613296,
+      "upper_bound": 681.2644667643224,
+      "n_outliers_removed": 15546
+    }
+  }
+}

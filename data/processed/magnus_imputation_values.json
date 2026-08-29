@@ -1,0 +1,15 @@
+{
+  "NetHeight": 66.6,
+  "NetLength": 190.6,
+  "TotalCost_mean_6m_lane_state": 384.2828680083144,
+  "TotalCost_max_3m_lane_state": 1600.0,
+  "TotalCost_std_2w_lane_zip3": 47.044578331961624,
+  "TotalCost_min_2w_lane_zip3": 170.0,
+  "TotalCost_std_6m_lane_state": 286.33410526490775,
+  "TotalCost_count_6m_lane_state": 229.0,
+  "TotalCost_min_3m_lane_state": 93.0,
+  "Destination_Light_Employment": 28510.0,
+  "TotalCost_min_6m_lane_state": 75.0,
+  "VehicleYearMean": 2021.0,
+  "TotalCost_max_6m_lane_state": 1800.0
+}
