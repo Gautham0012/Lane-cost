@@ -1,0 +1,25 @@
+,group
+NetHeight,Equipment
+NetLength,Equipment
+DestinationLatitude,Distance
+TypeMissing,Equipment
+TotalCost_mean_6m_lane_state,Historical Lane Cost
+TotalCost_max_3m_lane_state,Historical Lane Cost
+TotalCost_std_2w_lane_zip3,Historical Lane Cost
+TotalCost_min_2w_lane_zip3,Historical Lane Cost
+TotalCost_std_6m_lane_state,Historical Lane Cost
+TotalCost_count_6m_lane_state,Historical Lane Cost
+HaversineMiles,Distance
+TotalCostOriginMean,Historical Lane Cost
+Origin_Light_Wage,Market Conditions
+LengthOfHaul,Distance
+delta_lat,Distance
+TotalCost_min_3m_lane_state,Historical Lane Cost
+delta_lon,Distance
+Destination_Light_Employment,Market Conditions
+Origin_Light_Employment,Market Conditions
+TotalCost_min_6m_lane_state,Historical Lane Cost
+VehicleYearMean,Equipment
+TotalCost_max_6m_lane_state,Historical Lane Cost
+TotalCostDestinationMean,Historical Lane Cost
+OriginZip3_TE,Historical Lane Cost

@@ -1,0 +1,14 @@
+,n_unique,missing_pct,top_value
+SourceName,2,0.0,Turvo
+EquipmentType,21,5.894950921729804,Auto transport
+OriginPostalCode,7332,0.0,78045
+DestinationPostalCode,7121,0.003269704876437853,76065
+OriginState,56,0.0,TX
+OriginCity,3913,0.0,Laredo
+OriginTimeZone,12,80.18558844878662,America/New_York
+DestinationState,58,0.003269704876437853,TX
+DestinationCity,3950,0.0,Midlothian
+DestinationTimeZone,13,79.53622506032606,America/New_York
+OriginZip3,856,0.0,481
+DestinationZip3,892,0.003269704876437853,760
+Split,3,0.0,train

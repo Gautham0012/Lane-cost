@@ -1,0 +1,7 @@
+,n_unique,missing_pct,top_value
+SourceName,1,0.0,Turvo
+EquipmentType,5,0.0,Auto transport
+OriginState,48,0.0,TX
+DestinationState,47,0.0,TX
+OriginZip3,558,0.0,750
+DestinationZip3,638,0.0,760
